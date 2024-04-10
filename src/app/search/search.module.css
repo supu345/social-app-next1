@@ -1,0 +1,12 @@
+.container {
+  flex: 5;
+}
+
+.title {
+  margin: 50px 0px;
+}
+
+.content {
+  display: flex;
+  gap: 50px;
+}
